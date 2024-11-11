@@ -1,10 +1,8 @@
-<p align="center">
-      <img src="./headers.png" />
-</p> 
-
+ 
+![logo](https://media.licdn.com/dms/image/v2/D5616AQFnbdPl4ctPCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731360916161?e=1736985600&v=beta&t=nvPyA5MbKDO8L5j7G75tz6w4HF8nNSAfsb9hgPyOsII)
 
 <h1 align="center"> I'm Md Tahmeed </h1>
-<h3 align="center">A passionate Data Science.I can be invlolved in your project as you need me to be. I love travelling ✈️ when I am not coding 👨‍💻  </h3>
+<h3 align="center">A passionate Data Science.I can be invlolved in your project as you need me to be. I love travelling ✈️ when I am  coding 👨‍💻  </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <br />
 

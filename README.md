@@ -47,9 +47,6 @@
 
 ---
 
-<h3 align="center">Support:</h3>
-<p align="center">
-<a href="https://www.buymeacoffee.com/mdtahmeed" target="_blank">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-F7941E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee">
+
 </a>
 </p>

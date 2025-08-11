@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/mdtahmeed/portfolio/main/header-image.png)
+![Header]"C:\Users\pc\Downloads\ChatGPT Image Aug 11, 2025, 06_23_35 PM.png"
 
 
 

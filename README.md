@@ -1,5 +1,5 @@
-![Header](<img width="1536" height="1024" alt="ChatGPT Image Aug 11, 2025, 06_23_35 PM" src="https://github.com/user-attachments/assets/8b32456f-6683-4387-9f97-89abed6200c2" />
-)
+![Header](https://raw.githubusercontent.com/mdtahmeed/your-repo-name/main/path/to/your-image.png)
+
 
 <h1 align="center">Hi 👋, I'm Md Tahmeed</h1>
 <h3 align="center">🚀 Data Scientist | Machine Learning Enthusiast | AI Developer | Traveler 🌍</h3>

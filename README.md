@@ -1,4 +1,5 @@
-![Header](https://media.licdn.com/dms/image/v2/D5616AQFnbdPl4ctPCw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731360916161?e=1736985600&v=beta&t=nvPyA5MbKDO8L5j7G75tz6w4HF8nNSAfsb9hgPyOsII)
+![Header](<img width="1536" height="1024" alt="ChatGPT Image Aug 11, 2025, 06_23_35 PM" src="https://github.com/user-attachments/assets/8b32456f-6683-4387-9f97-89abed6200c2" />
+)
 
 <h1 align="center">Hi 👋, I'm Md Tahmeed</h1>
 <h3 align="center">🚀 Data Scientist | Machine Learning Enthusiast | AI Developer | Traveler 🌍</h3>
@@ -27,24 +28,7 @@
 
 ---
 
-## 🏆 Certifications
-[![R Programming for Data Science](https://img.shields.io/badge/R%20Programming%20for%20Data%20Science-blue?style=for-the-badge&logo=R&logoColor=white)](#)
-[![Data Science Professional Certificate](https://img.shields.io/badge/Data%20Science%20Professional-green?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
-[![Machine Learning & Pattern Recognition](https://img.shields.io/badge/Machine%20Learning%20%26%20Pattern%20Recognition-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 
----
-
-## 📌 Pinned Highlights
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Fraud Detection App](https://frauddetection2025.streamlit.app/) | Predicts fraudulent transactions | `Python` `Streamlit` `Scikit-learn` |
-| [Sushi Website](https://radiant-travesseiro-889002.netlify.app/) | Responsive restaurant website | `HTML` `CSS` |
-| Data Analytics Portal | Interactive dashboard & analytics | `Python` `Pandas` `Plotly` |
-| Smart ATS Tracker | Resume optimization tool | `Python` `NLP` |
-| LinkedIn Post Generator | Dataset visualization tool | `Streamlit` `Plotly` |
-| Cold Email Generator | AI-powered job application emails | `LangChain` `NLP` |
-
----
 
 ## 🛠 Languages & Tools
 <p align="center">

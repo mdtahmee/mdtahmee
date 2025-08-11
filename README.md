@@ -1,4 +1,5 @@
-![Header](https://raw.githubusercontent.com/mdtahmeed/your-repo-name/main/path/to/your-image.png)
+![Header](https://raw.githubusercontent.com/mdtahmeed/portfolio/main/header-image.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Md Tahmeed</h1>
